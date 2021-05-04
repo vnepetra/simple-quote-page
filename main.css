@@ -1,0 +1,19 @@
+h1, p {
+    text-align: center;
+    border-top: 80px;
+    width:auto;
+    padding: 100px;
+    border: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    background-image: url("https://raw.githubusercontent.com/CodeBerrySchool/simple-quote-page/master/assets/freedom.jpg")
+    background-size: cover;
+}
+h1 {
+    font-variant: small-caps;
+}
+html, body {
+    margin: 0px;
+    border: 0px;
+}

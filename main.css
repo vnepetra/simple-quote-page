@@ -8,7 +8,6 @@ h1, p {
 }
 body {
     background-image: url("https://raw.githubusercontent.com/CodeBerrySchool/simple-quote-page/master/assets/freedom.jpg")
-    background-size: cover;
 }
 h1 {
     font-variant: small-caps;
